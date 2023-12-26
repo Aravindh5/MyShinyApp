@@ -1,0 +1,8 @@
+# My Shiny App Details
+
+# We need five important tabs
+
+  1. Input Output
+  2. Read MySQL Table using the input data with query (You should use env variables to set up a passwords). Show the results in Table. Users who spent more than $50.
+  3. Module with cost and show it in Graph. Use Interactive designs
+  4. Use ML algorithm and show the results.
