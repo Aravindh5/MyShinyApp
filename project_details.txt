@@ -1,0 +1,15 @@
+# My Shiny App Details
+
+# We have four important modules
+
+1. Input/Output
+	A simple Input Output Module which replicates the rendering
+
+2. MySQL
+	Here we read MySQL Table using the input data with query and shows the results in Table.
+
+3. Graphs
+	Module with cost and show it in Graph. Use Interactive designs.
+
+4. Machine Learning 
+	By Uploading a file we use ML algorithm to show the predictions.
